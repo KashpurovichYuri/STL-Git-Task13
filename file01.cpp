@@ -10,7 +10,7 @@ int main()
 	std::cout << "What's going on?" << std::endl;
 	std::string input;
 	std::cin >> input;
-	std::cout << "Don't worry, be happy, dear!" << std::endl;
+	std::cout << "Don't worry, be happy now!" << std::endl;
 	std::cin >> input;
 	std::cout << "Perfect! Amazing! Unreal!" << std::endl;
 	std::cout << "Do you want to continue dialogue?" << std::endl;
