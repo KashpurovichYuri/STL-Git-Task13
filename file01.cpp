@@ -14,4 +14,5 @@ int main()
 	std::cin >> input;
 	std::cout << "Perfect! Amazing!" << std::endl;
 	std::cout << "Do you want to continue dialogue?" << std::endl;
+	// Now we want to clearify difference between merge and rebase
 }
