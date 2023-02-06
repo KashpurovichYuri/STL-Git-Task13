@@ -13,4 +13,5 @@ int main()
 	std::cout << "Don't worry, be happy." << std::endl;
 	std::cout << "Glad to try!)" << std::endl;
 	std::cout << "Perfect!" << std::endl;
+	std::cout << "Do you want to continue dialogue?" << std::endl;
 }
