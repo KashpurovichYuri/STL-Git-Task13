@@ -10,9 +10,9 @@ int main()
 	std::cout << "What's going on?" << std::endl;
 	std::string input;
 	std::cin >> input;
-	std::cout << "Don't worry, be happy." << std::endl;
+	std::cout << "Don't worry, be happy now!" << std::endl;
 	std::cin >> input;
-	std::cout << "Perfect! Amazing!" << std::endl;
+	std::cout << "Perfect! Amazing! Unbelievable!" << std::endl;
 	std::cout << "Do you want to continue dialogue?" << std::endl;
 	// Now we want to clearify difference between merge and rebase
 	// We've done something to understand it
