@@ -56,13 +56,13 @@ namespace solution
 			}
 		}
 
-		void Timer::stop()
+		void Timer::stop() noexcept
 		{			
 			auto stop = clock_t::now();
 			time += stop - m_begin;
 		}
 
-		void Timer::resume()
+		void Timer::resume() noexcept
 		{
 			m_begin = clock_t::now();
 		}
